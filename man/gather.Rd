@@ -42,6 +42,13 @@ Gather takes multiple columns and collapses into key-value pairs,
 duplicating all other columns as needed. You use \code{gather()} when
 you notice that you have columns that are not variables.
 }
+\details{
+\if{html}{
+\out{
+<img src="https://user-images.githubusercontent.com/209714/48026738-e9a06a80-e114-11e8-9a24-ecc8b37b8a53.gif" width="80%"/>
+}
+}
+}
 \section{Rules for selection}{
 
 

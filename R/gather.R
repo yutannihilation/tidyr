@@ -30,6 +30,13 @@
 #' column referred to by the object `x` defined in the context (which
 #' can contain either a column name as string or a column position).
 #'
+#' @details
+#' \if{html}{
+#' \out{
+#' <img src="https://user-images.githubusercontent.com/209714/48026738-e9a06a80-e114-11e8-9a24-ecc8b37b8a53.gif" width="80%"/>
+#' }
+#' }
+#'
 #' @inheritParams expand
 #' @param key,value Names of new key and value columns, as strings or
 #'   symbols.
